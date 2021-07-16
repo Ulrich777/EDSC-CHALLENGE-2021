@@ -18,7 +18,7 @@ Les équipes devront fournir un fichier nomé <team_name>.csv où <team_name> re
 
 La métrique d'évaluation de la compétition sera l'écart absolu moyen (MAE) entre la consommation éffective et la consommation prédite. De manière précise
 ```math
- \text{MAE}(y, z) = \frac{1}{T} \sum_{t=1}^T abs( y_t - z_t ) 
+ $\text{MAE}(y, z) = \frac{1}{T} \sum_{t=1}^T abs( y_t - z_t )$ 
 ```
 
 **TUTORIEL DE DEMARRAGE**
