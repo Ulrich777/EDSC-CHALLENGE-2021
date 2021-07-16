@@ -1,0 +1,3 @@
+Les données sont dans ce dossier
+* train.csv : est le fichier d'entraînement
+* test.csv : est le fichier de test
